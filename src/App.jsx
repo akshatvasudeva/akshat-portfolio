@@ -1,6 +1,5 @@
-import React from 'react'
-import Portfolio from './Portfolio'
+import Portfolio from './Portfolio.jsx'
 
-export default function App(){
+export default function App() {
   return <Portfolio />
 }
